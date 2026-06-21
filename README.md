@@ -1,5 +1,7 @@
 # Auto Raid Chat Log
 
+![Auto Raid Chat Log icon](icon.png)
+
 Auto Raid Chat Log is a small World of Warcraft addon that automatically
 enables chat logging when your character enters **March on Quel'Danas** and
 disables it again when you leave.
