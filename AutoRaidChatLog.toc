@@ -1,0 +1,7 @@
+## Interface: 120005, 120007
+## Title: Auto Raid Chat Log
+## Notes: Enables chat logging inside March on Quel'Danas and disables it upon leaving.
+## Author: Abram
+## Version: 1.2.0
+
+AutoRaidChatLog.lua
